@@ -1,6 +1,6 @@
 # author:
 # date:
-# purpose: Hello world
+# purpose: Discount
 
 # input
 try:
